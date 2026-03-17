@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:17/03/2026
+## Register Number:212224240141
+## Name:SAIRAM E
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,28 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
-
+The proposed solution is a smart navigation system designed to help passengers easily find facilities within railway stations such as platforms, ticket counters, restrooms, and waiting areas. It includes a mobile application with interactive 3D maps and step-by-step directions, along with digital kiosks placed across stations for quick access. The system provides real-time updates on platform changes and facility locations to ensure accuracy. It also focuses on accessibility by offering voice-guided navigation for visually impaired users and wheelchair-friendly routes. Overall, the solution aims to reduce confusion, save time, and enhance the passenger experience through an intuitive and efficient navigation system.
 
 ## Proposed Solution / Architecture Diagram
+<img width="591" height="421" alt="image" src="https://github.com/user-attachments/assets/99498ea5-b5d4-4330-94e0-70d37a299bef" />
 
 
 ## Use Cases
+<img width="903" height="845" alt="image" src="https://github.com/user-attachments/assets/0da2d314-966d-47a8-9839-74c0fc046f64" />
 
 
 ## Technology Stack
-
+Flutter, 
+React, 
+Node.js,
+MongoDB,
+Firebase,
+Google Maps API
 
 ## Dependencies
-
+Axios, 
+Express,
+Socket.io,
+Firebase SDK,
+Maps API,
+TTS APIs
